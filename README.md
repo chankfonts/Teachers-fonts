@@ -11,7 +11,7 @@ The Teachers font comes in 8 styles: Regular, SemiBold, Bold and ExtraBold, plus
 
 The Teachers fonts and refined character sets were assembled by font designer Chank Diesel, making edits and updates to the previously existing opensource fonts Glacial Indifference (Regular and Bold) by Alfredo Marco Pradil of Hanken Design Co.
 
-<img width="603" alt="Teachers_fonts_8styles" src="https://github.com/chankfonts/Teachers-fonts/assets/142630130/48047be8-77a3-4534-8d4c-2e0f2e4106e5">
+<img width="656" alt="Teacher_fonts_10styles" src="https://github.com/chankfonts/Teachers-fonts/assets/142630130/71426124-a048-42ac-8a44-fd0a4fc26d86">
 
 <img width="800" alt="Teachersfont_description" src="https://github.com/chankfonts/Teachers-fonts/assets/142630130/0c06036b-cbfe-40a2-af47-84e9fed2f306">
 
