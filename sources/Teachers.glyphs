@@ -92912,7 +92912,7 @@ key = copyrights;
 values = (
 {
 language = ENG;
-value = "Copyright (c) 2023 by Chank Co with the reserved font name Teachers.";
+value = "Copyright 2023 The Teachers Project Authors (https://github.com/chankfonts/Teachers-fonts)";
 }
 );
 },
@@ -92921,16 +92921,7 @@ key = designers;
 values = (
 {
 language = ENG;
-value = "Alfredo Marco Pradil & Chank Diesel";
-}
-);
-},
-{
-key = familyNames;
-values = (
-{
-language = ENG;
-value = Teachers;
+value = "Alfredo Marco Pradil, Chank Diesel";
 }
 );
 },
@@ -92939,7 +92930,7 @@ key = licenses;
 values = (
 {
 language = ENG;
-value = "
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org
 with Reserved Font Name Glacial Indifference.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
@@ -93038,7 +93029,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.";
 },
 {
 key = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = trademarks;
