@@ -52802,6 +52802,57 @@ width = 287;
 unicode = 322;
 },
 {
+color = 10;
+category = Letter;
+glyphname = ltilde;
+lastChange = "2026-09-02 01:21:24 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-384);
+ref = tildecomb;
+},
+{
+pos = (119,0);
+ref = l;
+}
+);
+width = 471;
+},
+{
+layerId = "B86D9C3C-D3FC-40C7-BC9B-EF4509240B31";
+shapes = (
+{
+pos = (0,-284);
+ref = tildecomb;
+},
+{
+pos = (79,0);
+ref = l;
+}
+);
+width = 440;
+},
+{
+layerId = "20FD933E-5CCA-4ADC-839D-1BAE82A4B007";
+shapes = (
+{
+pos = (0,-251);
+ref = tildecomb;
+},
+{
+pos = (66,0);
+ref = l;
+}
+);
+width = 430;
+}
+);
+unicode = 619;
+},
+{
 color = 6;
 glyphname = m;
 kernRight = hmn;
